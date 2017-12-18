@@ -4,8 +4,8 @@ import cv2 as cv
 ############# INPUTS ###################
 
 ## Change the path in here
-rgb_video_path = './/gesture-4-color.avi' ##### CHANGE PATH ####
-depth_video_path = './/gesture-4-depth.avi' ##### CHANGE PATH ####
+rgb_video_path = './/dataset//gesture-4-color.avi' ##### CHANGE PATH ####
+# depth_video_path = './/gesture-4-depth.avi' ##### CHANGE PATH ####
 
 ## Input Parameters
 ignore_first = 100 ## Ignore first 100 frames
